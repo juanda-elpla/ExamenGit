@@ -11,6 +11,7 @@ package com.mycompany.examengit;
 public class ExamenGit {
 
     public static void main(String[] args) {
-        System.out.println("Esta línea tiene un fallo. Encuéntralo");
+        System.out.println("Esta línea tiene un fallo. Encuentralo, no me sale el error!!!");
+        
     }
 }
